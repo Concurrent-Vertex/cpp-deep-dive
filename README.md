@@ -1,2 +1,2 @@
-# Solidity-Beginner-to-Advanced
-A repo for solidity snippets and helpful resources
+# C++ algorithms
+A repo which contains imp. leetcode questions of various algorithms
